@@ -5,4 +5,4 @@ target/
 .idea/
 *.iws
 *.iml
-*.ipr
+*.iprgit push --force
