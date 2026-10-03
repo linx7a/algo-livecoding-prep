@@ -18,15 +18,6 @@ package linx7a.graphs;
  * - Дополнительная память допустима (рекурсия или очередь).
  */
 public class SymmetricTree {
-    public static class TreeNode {
-        public int val;
-        public TreeNode left;
-        public TreeNode right;
-
-        public TreeNode(int val) {
-            this.val = val;
-        }
-    }
 
     /**
      * Проверяет, симметрично ли дерево.

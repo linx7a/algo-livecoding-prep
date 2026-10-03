@@ -1,7 +1,7 @@
 package graphs;
 
 import linx7a.graphs.SymmetricTree;
-import linx7a.graphs.SymmetricTree.TreeNode;
+import linx7a.graphs.TreeNode;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
